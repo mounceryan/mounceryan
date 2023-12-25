@@ -11,18 +11,15 @@
   </a>
 </div>
 
-
-
 ## Python Projects
 
 - Arabic/Roman numeral convertor
 - Python maths
-- Python code from academic assignments cannot be hosted here.
 
 ## HTML/CSS/JavaScript Projects
 
-- Flag spotting
-- Movies
+- Flag spotting: A website to display the flags I saw whilst travelling during 2023.
+- Movies: A website for searching the movies I own across various platforms.
 
 
 
