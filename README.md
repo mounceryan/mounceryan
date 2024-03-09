@@ -12,7 +12,7 @@
 
 ## Portfolio
 
-### HTML/CSS/JavaScript Projects
+### HTML, CSS and JavaScript
 
 :san_marino: <a href="https://github.com/mounceryan/flag-spotting">Flag Spotting</a>: A website to display the flags I saw during the year 2023 when I travelled.<br>
 
