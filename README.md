@@ -14,7 +14,7 @@
 
 ### HTML/CSS/JavaScript Projects
 
-:san_marino: <a href="https://github.com/mounceryan/flag-spotting">Flag spotting</a>: A website to display the flags I saw during the year 2023 when I travelled.<br>
+:san_marino: <a href="https://github.com/mounceryan/flag-spotting">Flag Spotting</a>: A website to display the flags I saw during the year 2023 when I travelled.<br>
 
 :mag: <a href="https://github.com/mounceryan/google-redesign">Google Redesign</a>: A redesign of Google search based on the graphical redesigns by Aurélien Salomon.<br>
 
@@ -35,6 +35,10 @@
 :infinity: <a href="https://github.com/mounceryan/python-maths">Python Maths</a>: A collection of Python files for Maths.<br>
 
 :page_facing_up: <a href="https://github.com/mounceryan/voting-rules">Voting Rules</a>: A program to determine the winning candidate in an election according to different electoral systems.
+
+### R
+
+:bouquet: <a href="https://github.com/mounceryan/iris-dataset">Iris Dataset</a>: Exploring the Iris dataset using basic commands in R.
 
 ### SQL
 
