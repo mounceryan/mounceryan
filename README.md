@@ -26,17 +26,17 @@
 
 ### Python
 
-:pound: <a href="https://github.com/mounceryan/bank-accounts">Bank Accounts</a>: A program for managing bank accounts.<br>
+:pound: <a href="https://github.com/mounceryan/bank-accounts">Bank Accounts</a> (private): A program for managing bank accounts.<br>
 
-:desktop_computer: <a href="https://github.com/mounceryan/cache-management">Cache Management</a>: A program which aims to simulate the First In First Out (FIFO) and Least Frequently Used (LFU) algorithms.<br>
+:desktop_computer: <a href="https://github.com/mounceryan/cache-management">Cache Management</a> (private): A program which aims to simulate the First In First Out (FIFO) and Least Frequently Used (LFU) algorithms.<br>
 
 :1234: <a href="https://github.com/mounceryan/numeral-convertor">Numeral Convertor</a>: A program to convert Arabic to Roman numerals and vice-versa.<br>
 
 :infinity: <a href="https://github.com/mounceryan/python-maths">Python Maths</a>: A collection of Python files for Maths.<br>
 
-:ballot_box: <a href="https://github.com/mounceryan/two-party-system">Two-Party System</a>: A series of maps created using Python libraries, data from the House of Commons library and the ONS API to demonstrate the dominance of the Conservative Party and Labour Party at the UK 2019 General Election.<br>
+:ballot_box: <a href="https://github.com/mounceryan/two-party-system">Two-Party System</a> (private): A series of maps created using Python libraries, data from the House of Commons library and the ONS API to demonstrate the dominance of the Conservative Party and Labour Party at the UK 2019 General Election.<br>
 
-:page_facing_up: <a href="https://github.com/mounceryan/voting-rules">Voting Rules</a>: A program to determine the winning candidate in an election according to different electoral systems.
+:page_facing_up: <a href="https://github.com/mounceryan/voting-rules">Voting Rules</a> (private): A program to determine the winning candidate in an election according to different electoral systems.
 
 ### R
 
@@ -44,4 +44,4 @@
 
 ### SQL
 
-:guitar: <a href="https://github.com/mounceryan/music-labels">Music Labels</a>: A database for storing and querying information regarding records sold by record labels.
+:guitar: <a href="https://github.com/mounceryan/music-labels">Music Labels</a> (private): A database for storing and querying information regarding records sold by record labels.
